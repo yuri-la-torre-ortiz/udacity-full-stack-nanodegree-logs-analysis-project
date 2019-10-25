@@ -24,7 +24,7 @@ A Linux-based virtual machine [\[VM\]](https://www.techopedia.com/definition/480
 
 Vagrant and VirtualBox are used to install and manage the VM. Files can be easily shared between the host computer and the VM. Be sure to use the recommended terminal based on your OS.
 
-#### VirtualBox Installation
+### VirtualBox Installation
 
 VirtualBox is the actual software running the virtual machine & needn't be launched after installation as Vagrant will do so.  It can be downloaded [here](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1).  Only the *platform package* is necessary.  
 
