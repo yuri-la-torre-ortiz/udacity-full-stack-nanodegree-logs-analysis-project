@@ -1,3 +1,5 @@
+#! /usr/bin/python2.7
+
 import psycopg2
 
 # Run 3 queries to find most popular authors, the most popular articles,
